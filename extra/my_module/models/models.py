@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+## new module from anather side 
+
 from odoo import models, fields, api
 
 # class my_module(models.Model):
